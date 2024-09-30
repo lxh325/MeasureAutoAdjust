@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasureAutoAdjust", "MeasureAutoAdjust\MeasureAutoAdjust.csproj", "{871B5108-D1EF-4483-8625-6DD5D74DA460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{F30A744F-85B4-4C41-8223-173A729457AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5381F70E-0FF8-4990-93E9-44F79891BF4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{871B5108-D1EF-4483-8625-6DD5D74DA460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871B5108-D1EF-4483-8625-6DD5D74DA460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871B5108-D1EF-4483-8625-6DD5D74DA460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871B5108-D1EF-4483-8625-6DD5D74DA460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30A744F-85B4-4C41-8223-173A729457AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30A744F-85B4-4C41-8223-173A729457AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30A744F-85B4-4C41-8223-173A729457AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30A744F-85B4-4C41-8223-173A729457AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5381F70E-0FF8-4990-93E9-44F79891BF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5381F70E-0FF8-4990-93E9-44F79891BF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5381F70E-0FF8-4990-93E9-44F79891BF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5381F70E-0FF8-4990-93E9-44F79891BF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96DEF807-B36E-4412-AE15-48462B525ECA}
+	EndGlobalSection
+EndGlobal
